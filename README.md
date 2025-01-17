@@ -113,7 +113,7 @@ This project can be improved by:
 
 Danielle Andrews - [@DrAcula_codes](https://twitter.com/DrAcula_codes 'Twitter/X') - [daniellerandrews](https://www.linkedin.com/in/daniellerandrews 'LinkedIn') - danielle.andrews.dev@icloud.com
 
-Project Link: [https://github.com/DrAcula27/readTrakr](https://github.com/DrAcula27/readTrakr)
+Project Link: [https://github.com/DrAcula27/blackjack](https://github.com/DrAcula27/blackjack)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
